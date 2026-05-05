@@ -1,0 +1,47 @@
+[
+  {
+    "id": "palyaço-balığı",
+    "name": "Palyaço Balığı",
+    "image": "https://images.unsplash.com/photo-1544552866-d3ed42536fc6?auto=format&fit=crop&q=80&w=1000",
+    "habitat": "Hint ve Pasifik Okyanusu mercan resifleri",
+    "diet": "Hepçil (Zooplankton ve algler)",
+    "funFact": "Palyaço balıkları anemonların zehirli dokunaçları arasında yaşayarak korunurlar.",
+    "isEndangered": false
+  },
+  {
+    "id": "büyük-beyaz-köpekbalığı",
+    "name": "Büyük Beyaz Köpekbalığı",
+    "image": "https://images.unsplash.com/photo-1560275619-4662e36fa65c?auto=format&fit=crop&q=80&w=1000",
+    "habitat": "Tüm ılıman okyanus suları",
+    "diet": "Etçil (Balıklar, deniz memelileri)",
+    "funFact": "Bir büyük beyaz köpekbalığı hayatı boyunca 30.000'den fazla diş kaybedebilir.",
+    "isEndangered": true
+  },
+  {
+    "id": "mavi-tang",
+    "name": "Mavi Tang",
+    "image": "https://images.unsplash.com/photo-1518063261642-a8c7ed654133?auto=format&fit=crop&q=80&w=1000",
+    "habitat": "Hint-Pasifik bölgesi mercan resifleri",
+    "diet": "Otçul (Baskın olarak algler)",
+    "funFact": "Tehlike anında kuyruklarının yanındaki keskin omurgaları çıkararak kendilerini savunurlar.",
+    "isEndangered": false
+  },
+  {
+    "id": "aslan-balığı",
+    "name": "Aslan Balığı",
+    "image": "https://images.unsplash.com/photo-1516592238470-3ba573b185ce?auto=format&fit=crop&q=80&w=1000",
+    "habitat": "Hint-Pasifik Okyanusu",
+    "diet": "Etçil",
+    "funFact": "Dikenleri zehirlidir ancak bir o kadar da gösterişli bir görünüme sahiptirler.",
+    "isEndangered": false
+  },
+  {
+    "id": "vatoz",
+    "name": "Vatoz",
+    "image": "https://images.unsplash.com/photo-1565551829032-dfc7929fc12b?auto=format&fit=crop&q=80&w=1000",
+    "habitat": "Tropikal ve subtropikal sığ denizler",
+    "diet": "Etçil (Kabuklular, küçük balıklar)",
+    "funFact": "Vatozların kemikleri yoktur, iskeletleri tamamen kıkırdaktan oluşur.",
+    "isEndangered": false
+  }
+]
