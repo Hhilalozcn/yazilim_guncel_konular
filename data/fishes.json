@@ -1,0 +1,249 @@
+[
+  {
+    "id": "buyuk-beyaz-kopekbaligi",
+    "name": "Büyük Beyaz Köpekbalığı",
+    "image": "https://images.unsplash.com/photo-1560275619-4662e36fa65c?auto=format&fit=crop&q=80&w=1000",
+    "habitat": "Tüm ılıman okyanus suları",
+    "diet": "Etçil (Balıklar, deniz memelileri)",
+    "funFact": "Büyük beyaz köpekbalıklarının 300'den fazla keskin dişi vardır ve hayatları boyunca 30.000'den fazla diş kaybedebilirler. Bu sayede her zaman yeni ve keskin dişlere sahip olurlar.",
+    "isEndangered": true,
+    "quiz": {
+      "question": "Büyük beyaz köpekbalıkları hakkında hangisi doğrudur?",
+      "options": [
+        "Sadece tropikal sularda yaşarlar",
+        "Hayat boyu binlerce diş kaybedebilirler",
+        "Tamamen otçuldurlar"
+      ],
+      "correctAnswer": "Hayat boyu binlerce diş kaybedebilirler"
+    },
+    "modelUrl": "/models/great_white_shark.glb"
+  },
+  {
+    "id": "palyaco-baligi",
+    "name": "Palyaço Balığı",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkQM1A8jfmNEVZq1P6x6lXtFPqMEtfU1vCyw&s",
+    "habitat": "Hint ve Pasifik Okyanusu mercan resifleri",
+    "diet": "Hepçil (Zooplankton ve algler)",
+    "funFact": "Palyaço balıkları deniz anemonları ile simbiyotik bir ilişki içinde yaşarlar. Anemonlar onları korurken, onlar da anemonları temizler ve besin sağlarlar.",
+    "isEndangered": false,
+    "quiz": {
+      "question": "Palyaço balıkları kendilerini korumak için hangi canlıyla ortak yaşam sürerler?",
+      "options": [
+        "Mercanlar",
+        "Deniz Anemonları",
+        "Deniz Yıldızları"
+      ],
+      "correctAnswer": "Deniz Anemonları"
+    },
+    "modelUrl": "/models/clownfish.glb"
+  },
+  {
+    "id": "manta-vatozu",
+    "name": "Manta Vatozu",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Giant_Manta_AdF.jpg/250px-Giant_Manta_AdF.jpg",
+    "habitat": "Açık okyanus ve tropikal mercan resifleri",
+    "diet": "Süzücü (Plankton ve küçük kabuklular)",
+    "funFact": "Manta vatozları dev kanat açıklıklarıyla (7 metreye kadar) kristal berraklığında sularda adeta uçuyormuş gibi yüzerler.",
+    "isEndangered": true,
+    "quiz": {
+      "question": "Manta vatozlarının beslenme şekli nasıldır?",
+      "options": [
+        "Büyük balıkları avlarlar",
+        "Plankton süzerek beslenirler",
+        "Sadece deniz yosunu yerler"
+      ],
+      "correctAnswer": "Plankton süzerek beslenirler"
+    },
+    "modelUrl": "/models/manta_ray.glb"
+  },
+  {
+    "id": "aslan-baligi",
+    "name": "Aslan Balığı",
+    "image": "https://thumbor.evrimagaci.org/HBD1vVYDcuL0T74yyoB78VN0UEU=/2000x0/filters:quality(85)/old/content_media/9114ef8a9f48b039c5fd89dfa51250cd.jpg",
+    "habitat": "Hint-Pasifik Okyanusu",
+    "diet": "Etçil (Küçük balıklar ve kabuklular)",
+    "funFact": "Tüm dikenlerini ve çarpıcı renklerini gösteren aslan balıkları, resif kenarlarında göz kamaştırıcı ancak zehirli bir güzelliğe sahiptir.",
+    "isEndangered": false,
+    "quiz": {
+      "question": "Aslan balığının dikenleri hakkında ne söylenebilir?",
+      "options": [
+        "Zehirlidirler",
+        "Yumuşaktırlar",
+        "Sadece süs amaçlıdırlar"
+      ],
+      "correctAnswer": "Zehirlidirler"
+    },
+    "modelUrl": "/models/lion_fish.glb"
+  },
+  {
+    "id": "cekic-basli-kopekbaligi",
+    "name": "Çekiç Başlı Köpekbalığı",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Great_hammerhead2.jpg",
+    "habitat": "Tropikal kıyı suları",
+    "diet": "Etçil (Vatozlar, balıklar)",
+    "funFact": "Karakteristik kafa yapısı sayesinde mükemmel bir görüş açısına sahiptir ve derin mavi sularda ustaca avlanır.",
+    "isEndangered": true,
+    "quiz": {
+      "question": "Çekiç başlı köpekbalıklarının en büyük avantajı nedir?",
+      "options": [
+        "360 derece görüş açısı",
+        "Elektrik verme yeteneği",
+        "Zehirli iğneleri"
+      ],
+      "correctAnswer": "360 derece görüş açısı"
+    },
+    "modelUrl": "/models/hammerhead_shark.glb"
+  },
+  {
+    "id": "denizati",
+    "name": "Denizatı",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo6K9PTMYNGNRgNeVHf4sLeyKyEcsMx4_wLw&s",
+    "habitat": "Ilıman sığ sular ve mercanlar",
+    "diet": "Etçil (Küçük karidesler)",
+    "funFact": "Mercanlara kuyruklarıyla tutunan denizatları, okyanusun en narin ve detaylı kamuflaj ustalarından biridir.",
+    "isEndangered": true,
+    "quiz": {
+      "question": "Denizatlarında doğumu hangisi yapar?",
+      "options": [
+        "Dişi",
+        "Erkek",
+        "Her ikisi de"
+      ],
+      "correctAnswer": "Erkek"
+    },
+    "modelUrl": "/models/seahorse.glb"
+  },
+  {
+    "id": "koi-baligi",
+    "name": "Koi Balığı",
+    "image": "https://media.istockphoto.com/id/547410716/tr/fotoğraf/koi-fish.jpg?s=612x612&w=0&k=20&c=hAxbZFvoObjJo4s3QZdJX09mqsR803lxKtb0EhEVzd0=",
+    "habitat": "Tatlı su havuzları ve nehirler",
+    "diet": "Hepçil (Yosun, böcek ve bitkiler)",
+    "funFact": "Japon kültüründe şans ve azmi simgeleyen Koi balıkları, akıntının tersine yüzebilme yetenekleriyle bilinirler.",
+    "isEndangered": false,
+    "quiz": {
+      "question": "Koi balıkları Japon kültüründe neyi simgeler?",
+      "options": [
+        "Hız ve Güç",
+        "Şans ve Azim",
+        "Uykusuzluk"
+      ],
+      "correctAnswer": "Şans ve Azim"
+    },
+    "modelUrl": "/models/koi_fish.glb"
+  },
+  {
+    "id": "ejderha-baligi",
+    "name": "Ejderha Balığı (Arowana)",
+    "image": "https://img.pixers.pics/pho_wat(s3:700/FO/45/80/74/51/700_FO45807451_0b8faa0198902db5f845f84370a87fb6.jpg,700,545,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,495,jpg)/duvar-resimleri-renkli-betta-fish-closeup-ejderha-balik-akvaryum.jpg",
+    "habitat": "Güney Amerika'nın tropikal nehirleri",
+    "diet": "Etçil (Küçük balıklar, böcekler)",
+    "funFact": "Suyun dışına 2 metreye kadar zıplayabildikleri için 'Maymun Balığı' olarak da adlandırılırlar.",
+    "isEndangered": true,
+    "quiz": {
+      "question": "Ejderha balığı suyun dışına ne kadar zıplayabilir?",
+      "options": [
+        "50 cm",
+        "Yaklaşık 2 metre",
+        "10 metre"
+      ],
+      "correctAnswer": "Yaklaşık 2 metre"
+    },
+    "modelUrl": "/models/dragon_head.glb"
+  },
+  {
+    "id": "neon-tetra",
+    "name": "Neon Tetra Balığı",
+    "image": "https://avatars.mds.yandex.net/i?id=c6e7b7e44f5fd744d74e209405387aa1b9f81b00-5579637-images-thumbs&n=13",
+    "habitat": "Amazon havzasının karanlık suları",
+    "diet": "Hepçil (Küçük omurgasızlar ve bitkiler)",
+    "funFact": "Vücutlarındaki parlak yatay çizgiler, bulanık sularda birbirlerini fark etmelerini sağlayan bir 'neon' ışığı gibidir.",
+    "isEndangered": false,
+    "quiz": {
+      "question": "Neon Tetra'nın parlak çizgileri ne işe yarar?",
+      "options": [
+        "Avlarını korkutur",
+        "Sürünün birbirini bulmasını sağlar",
+        "Elektrik üretir"
+      ],
+      "correctAnswer": "Sürünün birbirini bulmasını sağlar"
+    },
+    "modelUrl": "/models/tetra_neon.glb"
+  },
+  {
+    "id": "mandarin-baligi",
+    "name": "Mandalina (Mandarin) Balığı",
+    "image": "https://media.istockphoto.com/id/526289449/tr/fotoğraf/dragonet-mandarinfish-in-banda-indonesia-underwater-photo.jpg?s=612x612&w=0&k=20&c=sTrMUeqRX8rWLbF7TqYaaPbf7wgXw_X8MGB8ctb3Sx0=",
+    "habitat": "Pasifik Okyanusu mercan resifleri",
+    "diet": "Etçil (Küçük kabuklular)",
+    "funFact": "Pulları yoktur; bunun yerine kendilerini parazitlerden koruyan ve kötü kokan zehirli bir mukus tabakasıyla kaplıdırlar.",
+    "isEndangered": false,
+    "quiz": {
+      "question": "Mandarin balığı kendini nasıl korur?",
+      "options": [
+        "Hızlı yüzerek",
+        "Zehirli bir mukus tabakasıyla",
+        "Kabuk değiştirerek"
+      ],
+      "correctAnswer": "Zehirli bir mukus tabakasıyla"
+    },
+    "modelUrl": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/BarramundiFish/glTF-Binary/BarramundiFish.glb?type=mandarin"
+  },
+  {
+    "id": "kristal-kopek-baligi",
+    "name": "Kristal Köpek Balığı",
+    "image": "https://blog.tetra.net/tr-tr/wp-content/uploads/2022/11/kristal-kopekbaligi.jpg",
+    "habitat": "Güneydoğu Asya'nın büyük nehirleri",
+    "diet": "Hepçil (Fitoplankton ve küçük böcekler)",
+    "funFact": "Gerçek bir köpek balığı değil, sazangiller ailesinin bir üyesidir; ismini gümüş rengi ve dik yüzgecinden alır.",
+    "isEndangered": true,
+    "quiz": {
+      "question": "Kristal Köpek Balığı aslında hangi aileye mensuptur?",
+      "options": [
+        "Köpek Balıkları",
+        "Sazangiller",
+        "Deniz Atları"
+      ],
+      "correctAnswer": "Sazangiller"
+    },
+    "modelUrl": "/models/grey_shark.glb"
+  },
+  {
+    "id": "discus-baligi",
+    "name": "Discus Balığı (Akvaryumun Kralı)",
+    "image": "https://blog.tetra.net/tr-tr/wp-content/uploads/2021/06/kirmizi-diskus-symphysodon-discus.jpg",
+    "habitat": "Amazon Nehri'nin yavaş akan kolları",
+    "diet": "Hepçil (Yosun ve küçük canlılar)",
+    "funFact": "Disk şeklindeki yassı gövdeleri, Amazon ormanlarının sık bitki örtüsü arasında kolayca hareket etmelerini sağlar.",
+    "isEndangered": false,
+    "quiz": {
+      "question": "Discus balığının vücut şekli ona ne avantaj sağlar?",
+      "options": [
+        "Daha hızlı yüzmek",
+        "Bitkiler arasında kolay hareket etmek",
+        "Suyun dışına zıplamak"
+      ],
+      "correctAnswer": "Bitkiler arasında kolay hareket etmek"
+    },
+    "modelUrl": "/models/discus_1.glb"
+  },
+  {
+    "id": "melek-baligi",
+    "name": "Melek Balığı",
+    "image": "https://avatars.mds.yandex.net/i?id=712f5ae086a1b89aba756014adfb1518a1b687e8-10782253-images-thumbs&n=13",
+    "habitat": "Güney Amerika'nın tatlı suları",
+    "diet": "Etçil (Küçük böcekler ve larvalar)",
+    "funFact": "Zarif üçgen yapıları ve sakin süzülüşleri nedeniyle 'Melek' ismini almışlardır; oldukça sadık eşlerdir.",
+    "isEndangered": false,
+    "quiz": {
+      "question": "Melek balıkları ismini nereden alır?",
+      "options": [
+        "Çok hızlı oldukları için",
+        "Zarif ve üçgen görünümleri için",
+        "Işık saçtıkları için"
+      ],
+      "correctAnswer": "Zarif ve üçgen görünümleri için"
+    },
+    "modelUrl": "/models/angel_fish.glb"
+  }
+]
